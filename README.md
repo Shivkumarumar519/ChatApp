@@ -1,5 +1,3 @@
-# ChatApp
-
 # 💬 ChatApp
 
 A real-time web-based chat application built with **Spring Boot (Backend)** and **React (Frontend)**. This project enables users to create or join chat rooms and communicate in real time.
@@ -73,6 +71,8 @@ GET - http://localhost:8081/api/v1/rooms/{roomId} → Join an existing room
 
 
 <img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/7356e5df-8e20-4c39-8e4a-b10fa5bb1935" />
+
+================================================================================================================================================
 
 🙋‍♂️ Author
 
