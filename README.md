@@ -67,6 +67,7 @@ http://localhost:5173
 
 
 POST - http://localhost:8081/api/v1/rooms → Create a new chat room
+
 GET - http://localhost:8081/api/v1/rooms/{roomId} → Join an existing room
 
 
