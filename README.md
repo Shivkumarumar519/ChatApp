@@ -15,8 +15,11 @@ A real-time web-based chat application built with **Spring Boot (Backend)** and 
 ## 📁 Project Structure
 
 Chat-App/
+
 ├── front-chat/ # React Frontend (Client)
+
 ├── web-chat-app/ # Spring Boot Backend (Server)
+
 └── README.md
 
 
