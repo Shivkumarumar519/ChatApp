@@ -65,19 +65,17 @@ Open:
 http://localhost:5173
 
 
-POST /api/v1/rooms → Create a new chat room
-GET /api/v1/rooms/{roomId} → Join an existing room
+POST - http://localhost:8081/api/v1/rooms → Create a new chat room
+GET - http://localhost:8081/api/v1/rooms/{roomId} → Join an existing room
 
 
-<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/e9e42db4-6fdd-4627-9c1a-e5170d96ade5" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/01050ef9-4fbc-40aa-847d-5ce4e8728e46" />
 
 
-<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/77fef0b0-808e-4877-98e7-d75fb7a0106b" />
-
-
+<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/7356e5df-8e20-4c39-8e4a-b10fa5bb1935" />
 
 🙋‍♂️ Author
+
 Shiv Kumar Umar
+
 📧 shivkumarumar0519@gmail.com
-
-
